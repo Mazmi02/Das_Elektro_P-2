@@ -1157,7 +1157,6 @@
   { "en": "Apa Itu Dioda IMPATT (IMPATT Diode)?", "id": "Dioda Osilator Microwave Daya Tinggi." },
   { "en": "Apa Itu Dioda Tunnel (Tunnel Diode)?", "id": "Dioda Resistansi Negatif (Efek Terowongan)." },
   { "en": "Apa Itu Dioda Step Recovery (Step Recovery Diode)?", "id": "Dioda Penghasil Harmonisa (Multiplier Frekuensi)." },
-  { "en": "Apa Itu Efek Miller (Miller Effect)?", "id": "Peningkatan Kapasitansi Input Penguat Inverting." },
   { "en": "Bagaimana Efek Miller (Miller Effect) Mempengaruhi Frekuensi?", "id": "Mengurangi Bandwidth (Lebar Pita) Penguat." },
   { "en": "Apa Itu Rangkaian Cascode (Cascode Amplifier)?", "id": "Gabungan CE-CB (Common Emitter-Common Base)." },
   { "en": "Apa Keuntungan Rangkaian Cascode (Cascode Amplifier)?", "id": "Bandwidth (Lebar Pita) Tinggi (Kurangi Efek Miller)." },
@@ -1827,7 +1826,6 @@
   { "en": "Apa Itu Bluetooth (Bluetooth)?", "id": "Standar Komunikasi Nirkabel Jarak Pendek." },
   { "en": "Apa Itu Wi-Fi Direct (Wi-Fi Direct)?", "id": "Koneksi Nirkabel Langsung Antar Perangkat." },
   { "en": "Apa Itu Near Field Communication (NFC)?", "id": "Komunikasi Nirkabel Jarak Sangat Dekat." },
-  { "en": "Apa Kepanjangan NFC (Near Field Communication)?", "id": "Komunikasi Medan Dekat." },
   { "en": "Apa Itu Keyboard (Papan Ketik)?", "id": "Perangkat Input Teks Komputer." },
   { "en": "Apa Itu Mouse (Tetikus)?", "id": "Perangkat Input Penunjuk Grafis." },
   { "en": "Apa Itu Monitor (Layar)?", "id": "Perangkat Output Visual Komputer." },
@@ -2074,7 +2072,6 @@
   { "en": "Apa Itu Reluktansi (Reluctance) Magnetik?", "id": "Hambatan Terhadap Aliran Fluks Magnet." },
   { "en": "Apa Itu Fluks (Flux) Magnetik (Φ)?", "id": "Ukuran Jumlah Medan Magnet." },
   { "en": "Apa Satuan Fluks (Flux) Magnetik?", "id": "Weber (Wb)." }
-
 
 
         ];
